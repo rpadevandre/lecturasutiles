@@ -85,6 +85,11 @@ Goal: improve AION as an operating agent: skills, memory, goals, cronjobs, Kanba
   - Why: phone/voice integration patterns.
   - Target: `transcripts/youtube/hermes/zHE434sBw2U_Hermes_Agent_phone_number.txt`
 
+- [ ] [Stop Prompting Claude. Use Karpathy's Method Instead.](https://www.youtube.com/watch?v=7zZy1QTvokM)
+  - Channel: Austin Marchese
+  - Why: spec/verifier/environment method for better Claude/AI-agent work; directly relevant to AION standards, project specs, QA loops, and reducing vague prompts.
+  - Target: `transcripts/youtube/hermes/7zZy1QTvokM_Stop_Prompting_Claude_Use_Karpathy_Method.txt`
+
 ---
 
 # Category: Business / founder knowledge
