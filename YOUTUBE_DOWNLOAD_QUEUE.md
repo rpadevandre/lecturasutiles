@@ -203,6 +203,11 @@ Goal: improve landing pages, admin panels, demos, brand trust, and product prese
   - Why: browser/web automation testing patterns; replace UNKNOWN with exact link.
   - Target: `transcripts/youtube/design_frontend/<video_id>_Claude_Playwright_Web_Agents.txt`
 
+- [ ] [New BEST local AI image generator is here! Free & offline — Ideogram 4](https://youtu.be/OA4gchz1Zcs?si=Qzp4KoYqDoU8t5cR)
+  - Channel: AI Search
+  - Why: Ideogram 4 local/offline image generation via ComfyUI; strong prompt adherence, text rendering, bounding-box/canvas layout control. Useful for improving AION visual workflows beyond generic one-shot image prompts.
+  - Target: `transcripts/youtube/design_frontend/OA4gchz1Zcs_Ideogram_4_Local_AI_Image_Generator.txt`
+
 ---
 
 # Local download options
