@@ -1121,3 +1121,41 @@
   - Detalles legales o contables de estructuras societarias y contratos de inversión.
 
 ---
+
+### Stop Prompting Claude. Use Karpathy's Method Instead.
+- **Archivo:** `outputs/summaries/Stop_Prompting_Claude_Use_Karpathys_Method_Instead.md`
+- **Video ID:** `7zZy1QTvokM`
+- **Canal:** Austin Marchese
+- **Fecha procesado:** 2026-06-11
+- **Duración:** 13m 18s
+- **Tags:** `claude`, `llm-workflow`, `prompt-engineering`, `claude-code`, `ai-agents`, `karpathy`, `claude-md`, `feedback-loop`
+- **Propósito:** Estructurar el flujo de trabajo con Claude Code usando specs, verificación y entorno persistente para maximizar calidad de output
+- **Descripción:** El video explica el método de Andrej Karpathy para usar LLMs efectivamente a través de tres capas: spec detallado, verificación explícita y entorno configurado. Ayuda a resolver el problema de outputs inconsistentes o que derivan del objetivo real cuando se usan agentes de IA.
+- **Útil para:**
+  - Configurar un `Claude.md` efectivo para un proyecto o repositorio
+  - Diseñar flujos de trabajo con Claude Code que incluyan verificación automática y guardrails a nivel de herramienta
+  - Crear una knowledge base local estructurada para que Claude consuma contexto propio del proyecto
+- **No útil para:**
+  - Implementación técnica detallada de hooks o APIs de Claude (no hay código real)
+  - Comparativas de rendimiento entre modelos LLM específicos
+
+---
+
+### New BEST local AI image generator is here!
+- **Archivo:** `outputs/summaries/New_BEST_local_AI_image_generator_is_here.md`
+- **Video ID:** `OA4gchz1Zcs`
+- **Canal:** AI Search
+- **Fecha procesado:** 2026-06-11
+- **Duración:** 29m 50s
+- **Tags:** `ideogram-v4`, `comfyui`, `local-ai`, `image-generation`, `bounding-box`, `kj-nodes`, `text-to-image`, `open-source`
+- **Propósito:** Guía de instalación y uso de Ideogram V4 en ComfyUI para generación local de imágenes con control composicional mediante bounding boxes
+- **Descripción:** Cubre la instalación completa de Ideogram V4 en ComfyUI (modelos, nodos, workflow KJ Prompt Builder) y explica el sistema de bounding boxes para controlar el layout de imágenes generadas. Ayuda a resolver el problema de integrar un generador de imágenes local de alta calidad con control preciso de composición sin depender de APIs externas.
+- **Útil para:**
+  - Configurar un pipeline local de generación de imágenes con control de layout (pósters, banners, materiales de marketing)
+  - Implementar generación de cómics/manga con paneles estructurados y texto renderizado
+  - Diseñar un sistema de iteración de imágenes con seeds fijos para refinar composiciones sin perder coherencia estilística
+- **No útil para:**
+  - Generación de imágenes a partir de imágenes de referencia (img2img) — Ideogram V4 es solo text-to-image
+  - Pipelines que requieren licencia comercial sin negociación previa con Ideogram Inc.
+
+---
