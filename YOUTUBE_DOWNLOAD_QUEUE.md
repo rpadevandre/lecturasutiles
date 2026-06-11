@@ -182,6 +182,11 @@ Goal: make repo-built products discoverable and validate via search/content.
 
 Goal: improve alerting, paper trading, risk controls, smart-money tracking, and research automation.
 
+- [ ] [I Let Hermes Agent Trade For Me (Insane Results)](https://www.youtube.com/watch?v=MbfuJZZ01IU)
+  - Channel: Trading with DaviddTech
+  - Why: Hermes as AI trading desk/quant lab: strategy research, backtesting, scheduled tasks, Telegram rooms, Trader Dev MCP, dashboards, memory/learning loops, and risk-control framing. Useful for AION trading/prediction-system architecture, but must be treated as educational inspiration, not live-trading advice.
+  - Target: `transcripts/youtube/polymarket_trading/MbfuJZZ01IU_I_Let_Hermes_Agent_Trade_For_Me.txt`
+
 - [ ] [Using the New Hermes Agent to Track Polymarket "Smart Money"](https://www.youtube.com/watch?v=UNKNOWN_SMART_MONEY_HERMES)
   - Why: wallet tracking and signal generation; replace UNKNOWN with exact link.
   - Target: `transcripts/youtube/polymarket_trading/<video_id>_Hermes_Polymarket_Smart_Money.txt`
